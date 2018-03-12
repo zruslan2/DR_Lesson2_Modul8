@@ -1,0 +1,12 @@
+void head(char mas[]);
+void yellow();
+void white();
+void red();
+void green();
+int kolS(char *m, int r, char ch);
+void sCount(char *m, int r);
+void obr(char *m, int r);
+int cSlov(char *m, int r);
+void mSlov(char *m, int r);
+void kSim(char *m, int r);
+int kA(char *m, int r);
